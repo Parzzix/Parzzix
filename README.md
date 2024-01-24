@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parzzix
 - 👀 I’m interested in Linux,OpenSource,Writing
-- 🌱 I’m currently learning Dart/Flutter
+- 🌱 I’m currently learning Python on [Boot.dev](https://www.boot.dev)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on Mastodon @parzzix@social.lol 
 
